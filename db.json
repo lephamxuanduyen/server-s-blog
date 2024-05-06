@@ -1,23 +1,23 @@
 {
     "gens": [
       {
-        "gen_name": "1",
+        "id": "1",
         "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen1.jpg?raw=true"
       },
       {
-        "gen_name": "2",
+        "id": "2",
         "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen2.jpg?raw=true"
       },
       {
-        "gen_name": "3",
+        "id": "3",
         "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen3.jpg?raw=true"
       },
       {
-        "gen_name": "4",
+        "id": "4",
         "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen4.jpg?raw=true"
       },
       {
-        "gen_name": "5",
+        "id": "5",
         "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen5.jpg?raw=true"
       }
     ],
