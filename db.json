@@ -1,25 +1,24 @@
 {
     "gens": [
       {
-        "id": "1",
+        "gen_name": "1",
         "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen1.jpg?raw=true"
       },
       {
-        "id": "2",
+        "gen_name": "2",
         "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen2.jpg?raw=true"
       },
       {
-        "id": "3",
+        "gen_name": "3",
         "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen3.jpg?raw=true"
       },
       {
-        "id": "4",
+        "gen_name": "4",
         "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen4.jpg?raw=true"
       },
       {
-        "id": "5",
-        "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen5.jpg?raw=true",
-        "leadID": "1"
+        "gen_name": "5",
+        "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen5.jpg?raw=true"
       }
     ],
     "mem": [
