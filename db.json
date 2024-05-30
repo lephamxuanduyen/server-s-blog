@@ -31,9 +31,12 @@
         "id": 5,
         "gen_name": "gen 5",
         "lead_com": {
-          "id": 1,
-          "name": "Trần Đại Quý",
-          "avatar_url": "https://scontent.fhan2-5.fna.fbcdn.net/v/t1.18169-1/20993867_839406879569810_7038985319622966636_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6udomnzXGxAQ7kNvgFQZbJf&_nc_ht=scontent.fhan2-5.fna&oh=00_AfDICEwXYPFezqPGOnKNmjS0vzYZDwzkc2ghcr9eC7rdVQ&oe=66609CF4"
+          "role": "Lead community",
+          "info":{
+            "id": 1,
+            "name": "Trần Đại Quý",
+            "avatar_url": "https://scontent.fhan2-5.fna.fbcdn.net/v/t1.18169-1/20993867_839406879569810_7038985319622966636_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6udomnzXGxAQ7kNvgFQZbJf&_nc_ht=scontent.fhan2-5.fna&oh=00_AfDICEwXYPFezqPGOnKNmjS0vzYZDwzkc2ghcr9eC7rdVQ&oe=66609CF4"
+          }
         },
         "items": [
           {
@@ -93,9 +96,10 @@
             "members": [
               {
                 "id": 9,
-                "name": "Phạm Tiến",
-                "role": "member",
-                "avatar_url": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-1/440429709_1820681021739419_6766804325056690619_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=60dcMAHkQuAQ7kNvgGIoRWI&_nc_ht=scontent.fhan14-2.fna&oh=00_AYCRZav4ww8EhkcpK5cP0W7oY7AZNI8aRz-M00LeyL-Oag&oe=664DE38A"
+                "name": "Phạm Hồng Phúc",
+                "role": "lead",
+                "avatar_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-1/386741205_1017576042795378_2450331338040485636_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nQ9OT-fH9poQ7kNvgHodGGG&_nc_ht=scontent.fhan14-5.fna&oh=00_AYATX_oTYEASQ-aNuI1hXxpirmH6g3IwqaHF0Or9gn9rGw&oe=664DF196"
+
               },
               {
                 "id": 10,
@@ -105,9 +109,9 @@
               },
               {
                 "id": 11,
-                "name": "Phạm Hồng Phúc",
-                "role": "lead",
-                "avatar_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-1/386741205_1017576042795378_2450331338040485636_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nQ9OT-fH9poQ7kNvgHodGGG&_nc_ht=scontent.fhan14-5.fna&oh=00_AYATX_oTYEASQ-aNuI1hXxpirmH6g3IwqaHF0Or9gn9rGw&oe=664DF196"
+                "name": "Phạm Tiến",
+                "role": "member",
+                "avatar_url": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-1/440429709_1820681021739419_6766804325056690619_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=60dcMAHkQuAQ7kNvgGIoRWI&_nc_ht=scontent.fhan14-2.fna&oh=00_AYCRZav4ww8EhkcpK5cP0W7oY7AZNI8aRz-M00LeyL-Oag&oe=664DE38A"
               },
               {
                 "id": 12,
@@ -123,15 +127,15 @@
             "members": [
               {
                 "id": 13,
-                "name": "Ngô Thị Lưu Thanh",
-                "role": "member",
-                "avatar_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-1/405411425_305456748980753_4245293162638280924_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WDwmtkbrOHEQ7kNvgFjGNwV&_nc_ht=scontent.fhan14-5.fna&oh=00_AYCz-bWzW4_R_sf881eNaAspoEITE3MoKPkL8YphJoYkDA&oe=664DF2C0"
-              },
-              {
-                "id": 14,
                 "name": "Nguyễn Thanh Nhàn",
                 "role": "lead",
                 "avatar_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-1/314031324_884886149343874_2278963183803056150_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kSE_Hzd4oOUQ7kNvgGcrZ6Z&_nc_ht=scontent.fhan14-1.fna&oh=00_AYDW7ts2EIVLAdsWE-1kDxy0MKXJr22YrsYtjdasLTNBgg&oe=664E1226"
+              },
+              {
+                "id": 14,
+                "name": "Ngô Thị Lưu Thanh",
+                "role": "member",
+                "avatar_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-1/405411425_305456748980753_4245293162638280924_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WDwmtkbrOHEQ7kNvgFjGNwV&_nc_ht=scontent.fhan14-5.fna&oh=00_AYCz-bWzW4_R_sf881eNaAspoEITE3MoKPkL8YphJoYkDA&oe=664DF2C0"
               }
             ]
           },
@@ -185,15 +189,15 @@
             "members": [
               {
                 "id": 20,
-                "name": "Nguyễn Thị Khải HUyền",
-                "role": "member",
-                "avatar_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-1/278374708_1116318128933319_2143332907290966754_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=39VBUBjwYkAQ7kNvgEiFMQw&_nc_ht=scontent.fhan14-3.fna&oh=00_AYBPZWklp90T4BWu5NoCw6Ta3T4rqepZNQVLzTaqUG0_6w&oe=664DEF3B"
-              },
-              {
-                "id": 21,
                 "name": "Kiều Thanh Hương",
                 "role": "lead",
                 "avatar_url": "https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-1/418495284_1583164322524802_2770394426363337715_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YSVEpjWjUJcQ7kNvgEv3Fhs&_nc_ht=scontent.fhan14-5.fna&oh=00_AYD3vp0bOuWvJi1LeWOqb4NZ9w-tzGkW9BzOgFUjj5Kz8w&oe=664DE8E8"
+              },
+              {
+                "id": 21,
+                "name": "Nguyễn Thị Khải Huyền",
+                "role": "member",
+                "avatar_url": "https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-1/278374708_1116318128933319_2143332907290966754_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=39VBUBjwYkAQ7kNvgEiFMQw&_nc_ht=scontent.fhan14-3.fna&oh=00_AYBPZWklp90T4BWu5NoCw6Ta3T4rqepZNQVLzTaqUG0_6w&oe=664DEF3B"
               }
             ]
           }
