@@ -1,4 +1,72 @@
 {
+  "gens": {
+    "description": "Tính đến 2024, GDSC-DUT đã gặt hái được nhiều thành tựu ấn tượng, khẳng định vị thế là một trong những câu lạc bộ lập trình dành cho sinh viên uy tín tại Đà Nẵng và miền Trung. Với hơn 190 thành viên Coreteam năng động, nhiệt huyết và 2100 thành viên Community, GDSC-DUT đã và đang đóng góp tích cực vào việc thúc đẩy sự phát triển của cộng đồng lập trình viên địa phương. Bên cạnh đó với 2 phòng ban Tech và NonTech luôn có những sản phẩm và sự kiện nhằm gắn kết các thành viên của 2 mảng riêng biệt.",
+    "header_image": [
+      {
+        "id": "1",
+        "heager_image": "hang2_1"
+      },
+      {
+        "id": "2",
+        "heager_image": "hang2_2"
+      },
+      {
+        "id": "3",
+        "heager_image": "hang2_3"
+      },
+      {
+        "id": "4",
+        "heager_image": "hang2_4"
+      },
+      {
+        "id": "5",
+        "heager_image": "hang2_5"
+      },
+      {
+        "id": "6",
+        "heager_image": "hang2_6"
+      },
+      {
+        "id": "7",
+        "heager_image": "hang2_7"
+      },
+      {
+        "id": "8",
+        "heager_image": "hang2_8"
+      },
+      {
+        "id": "9",
+        "heager_image": "hang2_9"
+      },
+      {
+        "id": "10",
+        "heager_image": "hang2_10"
+      },
+      {
+        "id": "11",
+        "heager_image": "hang2_11"
+      },
+      {
+        "id": "12",
+        "heager_image": "hang2_12"
+      },
+      {
+        "id": "13",
+        "heager_image": "hang2_13"
+      },
+      {
+        "id": "14",
+        "heager_image": "hang2_14"
+      },
+      {
+        "id": "15",
+        "heager_image": "hang2_15"
+      },
+      {
+        "id": "16",
+        "heager_image": "hang2_16"
+      }
+    ],
     "gens": [
       {
         "id": 1,          
@@ -25,7 +93,8 @@
         "gen_name": "gen 5",
         "image": "https://github.com/lephamxuanduyen/test_img/blob/main/gen5.jpg?raw=true"
       }
-    ],
+    ]
+  },
     "gen_detail": [
       {
         "id": 5,
