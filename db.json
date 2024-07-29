@@ -4,67 +4,67 @@
     "header_image": [
       {
         "id": "1",
-        "heager_image": "hang2_1"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_1.jpg"
       },
       {
         "id": "2",
-        "heager_image": "hang2_2"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_2.jpg"
       },
       {
         "id": "3",
-        "heager_image": "hang2_3"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_3.jpg"
       },
       {
         "id": "4",
-        "heager_image": "hang2_4"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_4.jpg"
       },
       {
         "id": "5",
-        "heager_image": "hang2_5"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_5.jpg"
       },
       {
         "id": "6",
-        "heager_image": "hang2_6"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_6.jpg"
       },
       {
         "id": "7",
-        "heager_image": "hang2_7"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_7.jpg"
       },
       {
         "id": "8",
-        "heager_image": "hang2_8"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_8.jpg"
       },
       {
         "id": "9",
-        "heager_image": "hang2_9"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_9.jpg"
       },
       {
         "id": "10",
-        "heager_image": "hang2_10"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_10.jpg"
       },
       {
         "id": "11",
-        "heager_image": "hang2_11"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_11.jpg"
       },
       {
         "id": "12",
-        "heager_image": "hang2_12"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_12.jpg"
       },
       {
         "id": "13",
-        "heager_image": "hang2_13"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_13.jpg"
       },
       {
         "id": "14",
-        "heager_image": "hang2_14"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_14.jpg"
       },
       {
         "id": "15",
-        "heager_image": "hang2_15"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_15.jpg"
       },
       {
         "id": "16",
-        "heager_image": "hang2_16"
+        "heager_image": "https://github.com/lephamxuanduyen/server_gdsc/blob/main/publish/shuffle/hang2_16.jpg"
       }
     ],
     "gens": [
@@ -95,20 +95,21 @@
       }
     ]
   },
-    "gen_detail": [
+    "members": [
       {
-        "id": 5,
-        "gen_name": "gen 5",
-        "lead_com": {
-          "role": "Lead community",
-          "info":{
-            "id": 1,
-            "name": "Trần Đại Quý",
-            "avatar_url": "https://scontent.fhan2-5.fna.fbcdn.net/v/t1.18169-1/20993867_839406879569810_7038985319622966636_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6udomnzXGxAQ7kNvgFQZbJf&_nc_ht=scontent.fhan2-5.fna&oh=00_AfDICEwXYPFezqPGOnKNmjS0vzYZDwzkc2ghcr9eC7rdVQ&oe=66609CF4",
-            "university": "Trường Đại học Bách khoa - Đại học Đà Nẵng"
-          }
-        },
+        "gen_name": "Gen 5",
         "items": [
+          {
+            "department": "Community",
+            "members": [
+              {
+                "id": 27,
+                "name": "Trần Đại Quý",
+                "role": "Lead community",
+                "avatar_url": "https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-1/309052037_1719902521714180_8973707084355812855_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5hRc8UUqybsQ7kNvgHNbwuW&_nc_ht=scontent.fhan14-1.fna&oh=00_AYA4WXqyoCU5gDgvWuYAc5wSHngKzxTSNQEvLplMgG-fQQ&oe=664DFE6E"
+              }
+            ]
+          },
           {
             "department": "marketing",
             "members": [
@@ -296,7 +297,74 @@
     "member": [
       {
         "id": 1,
-        "name": "Trần Đại Quý"
+        "name": "Trần Đại Quý",
+        "gen_name": "Gen 5",
+        "role": "Lead community",
+        "department": "Lead comunity",
+        "university":"Trường Đại học Bách khoa - Đại học Đà Nẵng",
+        "sector": "Công nghệ thông tin",
+        "address": "Đà Nẵng",
+        "birthday": "1-1-2003",
+        "awards": [
+            "Champion hakathon",
+            "Award 2"
+        ],
+        "skill": [
+          "backend", 
+          "frontend"
+        ],
+        "socials": [
+          {
+            "name": "facebook",
+            "url": "https://www.facebook.com/profile.php?id=100005015171670"
+          },
+          {
+            "name": "github",
+            "url": "https://www.facebook.com/profile.php?id=100005015171670"
+          },
+          {
+            "name": "linkedln",
+            "url": "https://www.facebook.com/profile.php?id=100005015171670"
+          },
+          {
+            "name": "instagram",
+            "url": "https://www.facebook.com/profile.php?id=100005015171670"
+          }
+        ],
+        "products": [
+          {
+            "id": 1,
+            "name": "SafeAlert",
+            "logo_url": ""
+          },
+          {
+            "id": 2,
+            "name": "SharingHub",
+            "logo_url": ""
+          }
+        ],
+        "events": [
+          {
+            "id": 1,
+            "name": "Info Session 2023",
+            "image_url": [
+              "https://image1",
+              "https://image 2"
+            ]
+          }
+        ],
+        "process": [
+          {
+            "gen_name": "Gen 4",
+            "department": "Frontend",
+            "role": "member"
+          },
+          {
+            "gen_name": "Gen 5",
+            "department": "Frontend",
+            "role": "Lead"
+          }
+        ]
       }
     ]
   }
